@@ -1,0 +1,13 @@
+.bundle
+.*.swp
+.*.swo
+.DS_STORE
+log/*
+/tmp
+/shared
+/pids
+vendor/ruby
+/Gemfile.lock
+/Capfile
+/config/deploy.rb
+/config/deploy/*
